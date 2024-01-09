@@ -1,1 +1,2 @@
-console.log("JavaScript!");
+console.log(This is JS) 
+
